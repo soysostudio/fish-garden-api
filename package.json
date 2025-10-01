@@ -1,5 +1,5 @@
 {
-  "name": "message-garden-api",
+  "name": "fish-garden-api",
   "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "2",
